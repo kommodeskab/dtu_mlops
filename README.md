@@ -1,3 +1,6 @@
+Added some text here
+And then added some more here
+
 <p align="center">
     <h1 align="center">Machine Learning Operations</h1>
     <p align="center">Repository for <a href="https://kurser.dtu.dk/course/02476">course 02476</a> at DTU.</p>
